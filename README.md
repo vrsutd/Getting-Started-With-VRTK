@@ -1,6 +1,6 @@
 # Getting Started With VRTK For VR Development
 
-<span style="display:block;text-align:center">We started off by creating a new unity project. I am using [Unity Hub](https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe) to do this but it works in the normal unity launcher as well. I suggest using Unity 2018.2.6f1 (Latest Version at the time of writing this).
+We started off by creating a new unity project. I am using [Unity Hub](https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe) to do this but it works in the normal unity launcher as well. I suggest using Unity 2018.2.6f1 (Latest Version at the time of writing this).
 
 ![Getting Started](guide-assets/images/GettingStarted.PNG)
 
@@ -36,4 +36,5 @@ Go to the inspector and click the ```Auto Populate``` Button to get your SDKs se
 
 ![AutoPopulate](guide-assets/images/AutoPopulate.PNG)
 
-</span>
+
+Now you are ready to start developing your own VR content.
